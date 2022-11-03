@@ -11,6 +11,7 @@ public:
 
     pessoa(long cp = 0, int t = 0): cpf(cp), telefone(t){
         //cout << "pessoa criada!!!" << endl;
+        //
     }
 
     ~pessoa(){
